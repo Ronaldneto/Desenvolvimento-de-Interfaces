@@ -1,0 +1,84 @@
+1. Interface e Interação
+
+Elementos de entrada:
+
+Cliques e toques para navegar pelos vídeos e menus.
+Digitação na barra de pesquisa.
+Comandos por voz (pesquisa por voz no aplicativo).
+Gestos no celular, como deslizar para navegar e ajustar o vídeo em tela cheia.
+
+Elementos de saída:
+
+Feedback visual (mudança de telas, animações e barra de progresso).
+Feedback sonoro durante a reprodução dos vídeos.
+Notificações de novos vídeos e transmissões ao vivo.
+Indicação de carregamento, curtidas e comentários.
+2. Usabilidade
+
+Pontos positivos:
+
+Interface intuitiva e de fácil navegação.
+Barra de pesquisa eficiente para encontrar conteúdos.
+Recomendações personalizadas com base no histórico do usuário.
+Ícones e menus de fácil identificação.
+
+Pontos negativos:
+
+Grande quantidade de recomendações pode distrair o usuário.
+Muitos anúncios podem prejudicar a experiência de uso.
+3. Acessibilidade
+
+Pontos positivos:
+
+Suporte a legendas automáticas e legendas adicionadas pelos criadores.
+Compatibilidade com leitores de tela.
+Atalhos de teclado na versão para computador.
+Ajuste da velocidade de reprodução e qualidade do vídeo.
+
+Pontos negativos:
+
+A qualidade das legendas automáticas pode variar.
+Nem todos os vídeos possuem audiodescrição para pessoas com deficiência visual.
+4. Ergonomia
+
+Pontos positivos:
+
+Layout organizado e fácil de compreender.
+Miniaturas dos vídeos facilitam a identificação do conteúdo.
+Modo escuro reduz o cansaço visual.
+
+Pontos negativos:
+
+Excesso de informações na página inicial pode causar distração.
+Recomendações constantes podem dificultar o foco em uma única tarefa.
+5. Responsividade
+
+Pontos positivos:
+
+Interface adaptada para computadores, tablets e smartphones.
+Mantém praticamente as mesmas funções em diferentes dispositivos.
+Ajusta automaticamente o tamanho dos elementos conforme a tela.
+
+Pontos negativos:
+
+Algumas funções aparecem em locais diferentes entre a versão web e o aplicativo, podendo confundir usuários.
+6. ISO 9241 (Princípios Ergonômicos)
+
+O YouTube atende a diversos princípios da ISO 9241:
+
+Adequação à tarefa: facilita assistir, pesquisar e compartilhar vídeos.
+Autodescrição: menus e ícones são claros e fáceis de identificar.
+Controlabilidade: o usuário pode pausar, avançar, alterar a velocidade e escolher a qualidade do vídeo.
+Conformidade com expectativas: a navegação segue padrões comuns de plataformas de vídeo.
+Tolerância a erros: confirma ações importantes, como excluir vídeos ou comentários.
+Adequação à individualização: permite personalizar legendas, tema (claro/escuro), idioma e preferências.
+Adequação ao aprendizado: a interface é simples e pode ser utilizada facilmente por novos usuários.
+Pontos fortes
+Interface intuitiva e organizada.
+Excelente sistema de busca.
+Recursos de acessibilidade, como legendas e atalhos.
+Boa adaptação para diferentes dispositivos.
+Pontos fracos
+Excesso de anúncios e recomendações pode prejudicar a experiência.
+Legendas automáticas nem sempre são precisas.
+Grande quantidade de informações pode distrair o usuário.
