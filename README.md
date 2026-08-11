@@ -1,1 +1,130 @@
-<img width="639" height="531" alt="image" src="https://github.com/user-attachments/assets/4e0de37b-8f62-4f33-9caf-ffcf6645788b" />
+<img width="1917" height="939" alt="image" src="https://github.com/user-attachments/assets/99add1b5-1340-44f9-b863-d9b77ae44280" />
+# YOUTUBE
+
+**Autor: Ronald José de Castro Tito Neto**
+
+## 1. Interface e Interação
+
+### Elementos de entrada
+
+- Cliques e toques para navegar pelos vídeos e menus.
+- Digitação na barra de pesquisa.
+- Comandos por voz para realizar pesquisas.
+- Gestos no celular, como deslizar para navegar e colocar o vídeo em tela cheia.
+
+### Elementos de saída
+
+- Feedback visual, como mudanças de tela, animações e barra de progresso.
+- Feedback sonoro durante a reprodução dos vídeos.
+- Notificações sobre novos vídeos e transmissões ao vivo.
+- Indicações de carregamento, curtidas e comentários.
+
+---
+
+## 2. Usabilidade
+
+### Pontos positivos
+
+- Interface intuitiva e fácil de navegar.
+- Barra de pesquisa eficiente para encontrar conteúdos.
+- Recomendações personalizadas com base no histórico do usuário.
+- Ícones e menus fáceis de identificar.
+
+### Pontos negativos
+
+- A grande quantidade de recomendações pode distrair o usuário.
+- Muitos anúncios podem prejudicar a experiência de uso.
+
+---
+
+## 3. Acessibilidade
+
+### Pontos positivos
+
+- Suporte a legendas automáticas e legendas adicionadas pelos criadores.
+- Compatibilidade com leitores de tela.
+- Atalhos de teclado na versão para computador.
+- Ajuste da velocidade de reprodução e qualidade do vídeo.
+
+### Pontos negativos
+
+- A qualidade das legendas automáticas pode variar.
+- Nem todos os vídeos possuem audiodescrição para pessoas com deficiência visual.
+
+---
+
+## 4. Ergonomia
+
+### Pontos positivos
+
+- Layout organizado e fácil de compreender.
+- Miniaturas dos vídeos facilitam a identificação do conteúdo.
+- O modo escuro pode ajudar a reduzir o cansaço visual.
+
+### Pontos negativos
+
+- O excesso de informações na página inicial pode causar distração.
+- As recomendações constantes podem dificultar o foco em uma única tarefa.
+
+---
+
+## 5. Responsividade
+
+### Pontos positivos
+
+- Interface adaptada para computadores, tablets e smartphones.
+- Mantém praticamente as mesmas funções em diferentes dispositivos.
+- Ajusta automaticamente o tamanho dos elementos conforme a tela.
+
+### Pontos negativos
+
+- Algumas funções aparecem em locais diferentes entre a versão web e o aplicativo, podendo confundir os usuários.
+
+---
+
+## 6. ISO 9241 - Princípios Ergonômicos
+
+O YouTube atende a diversos princípios da ISO 9241:
+
+- **Adequação à tarefa:** facilita assistir, pesquisar e compartilhar vídeos.
+- **Autodescrição:** menus e ícones são claros e fáceis de identificar.
+- **Controlabilidade:** o usuário pode pausar, avançar, alterar a velocidade e escolher a qualidade do vídeo.
+- **Conformidade com expectativas:** a navegação segue padrões comuns de plataformas de vídeo.
+- **Tolerância a erros:** algumas ações importantes possuem confirmação para evitar erros.
+- **Adequação à individualização:** permite personalizar legendas, tema claro ou escuro, idioma e preferências.
+- **Adequação ao aprendizado:** a interface é simples e pode ser utilizada facilmente por novos usuários.
+
+---
+
+# Pontos Fortes
+
+- Interface intuitiva e organizada.
+- Excelente sistema de busca.
+- Recursos de acessibilidade, como legendas e atalhos.
+- Boa adaptação para diferentes dispositivos.
+- Grande variedade de conteúdos disponíveis.
+
+# Pontos Fracos
+
+- Excesso de anúncios e recomendações pode prejudicar a experiência.
+- Legendas automáticas nem sempre são precisas.
+- Grande quantidade de informações pode distrair o usuário.
+- Quando uma conta nova é criada, inicialmente podem aparecer poucos vídeos ou recomendações que ainda não correspondem aos interesses do usuário.
+
+---
+
+# Conclusão
+
+O **YouTube é um site muito bom**, com uma interface fácil de usar, diversos recursos e boa adaptação para diferentes dispositivos.
+
+A plataforma também possui recursos importantes de acessibilidade e personalização.
+
+Porém, um ponto negativo é que, **quando uma conta nova é criada, inicialmente podem não aparecer muitos vídeos ou recomendações personalizadas**. Isso pode deixar a página inicial um pouco vazia ou apresentar conteúdos que não são do interesse do usuário.
+
+Depois que o usuário começa a assistir, pesquisar e interagir com os vídeos, as recomendações ficam mais adequadas aos seus interesses.
+
+De modo geral, o YouTube apresenta uma **boa usabilidade, acessibilidade, ergonomia e responsividade**, sendo uma plataforma completa e fácil de utilizar.
+
+---
+
+**Autor: Ronald José de Castro Tito Neto**
