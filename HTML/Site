@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Por que assistir Naruto?</title>
+</head>
+
+<body>
+
+    <h1>Por que assistir Naruto?</h1>
+
+    <p>
+        Naruto é um anime que conta a história de Naruto Uzumaki,
+        um jovem ninja que sonha em se tornar Hokage e ser reconhecido
+        por todos da sua vila.
+    </p>
+
+    <p>
+        A história possui muita ação, aventuras, amizades e momentos
+        emocionantes. Além das lutas, Naruto também mostra a importância
+        de nunca desistir dos seus sonhos.
+    </p>
+
+    <h2>Motivos para assistir Naruto</h2>
+
+    <ul>
+        <li>Tem muitas batalhas emocionantes.</li>
+        <li>Possui personagens marcantes.</li>
+        <li>A história fala sobre amizade e superação.</li>
+        <li>Tem momentos engraçados e emocionantes.</li>
+        <li>O mundo dos ninjas é muito interessante.</li>
+    </ul>
+
+    <h2>Imagem</h2>
+
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg"
+         alt="Capa do primeiro volume de Naruto"
+         width="200">
+
+    <p>
+        Quer saber mais sobre Naruto?
+        <a href="https://pt.wikipedia.org/wiki/Naruto" target="_blank">
+            Clique aqui para conhecer mais.
+        </a>
+    </p>
+
+</body>
+</html>
 
