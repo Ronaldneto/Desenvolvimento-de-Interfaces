@@ -1,83 +1,170 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Por que assistir Naruto?</title>
-    <link rel="stylesheet" href="style.css">
+<html lang="pt-BR">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Que personagem de Naruto você seria?</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <h1>Por que assistir Naruto?</h1>
+    <header>
+        <h1>🍥 Que personagem de Naruto você seria?</h1>
+        <p>Responda às 5 perguntas e descubra qual ninja combina com você!</p>
+    </header>
 
-    <p>
-        Naruto é um anime que conta a história de Naruto Uzumaki,
-        um jovem ninja que sonha em se tornar Hokage e ser reconhecido
-        por todos da sua vila.
-    </p>
+    <main>
 
-    <p>
-        A história possui muita ação, aventuras, amizades e momentos
-        emocionantes. Além das lutas, Naruto também mostra a importância
-        de nunca desistir dos seus sonhos.
-    </p>
+        <form id="quiz">
 
-    <h2>Motivos para assistir Naruto</h2>
+            <h2>1. O que você mais valoriza?</h2>
 
-    <ul>
-        <li>Tem muitas batalhas emocionantes.</li>
-        <li>Possui personagens marcantes.</li>
-        <li>A história fala sobre amizade e superação.</li>
-        <li>Tem momentos engraçados e emocionantes.</li>
-        <li>O mundo dos ninjas é muito interessante.</li>
-    </ul>
+            <label>
+                <input type="radio" name="pergunta1" value="naruto">
+                Meus amigos e minha família.
+            </label>
 
-    <h2>Imagem</h2>
+            <label>
+                <input type="radio" name="pergunta1" value="sasuke">
+                Minha força e meus objetivos.
+            </label>
 
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg"
-         alt="Capa do primeiro volume de Naruto"
-         width="200">
+            <label>
+                <input type="radio" name="pergunta1" value="shikamaru">
+                Minha inteligência.
+            </label>
 
-    <p>
-        Quer saber mais sobre Naruto?
-        <a href="https://pt.wikipedia.org/wiki/Naruto" target="_blank">
-            Clique aqui para conhecer mais.
-        </a>
-    </p>
-    <h2>O que você acha de Naruto?</h2>
+            <label>
+                <input type="radio" name="pergunta1" value="kakashi">
+                Minha tranquilidade.
+            </label>
 
-    <form>
-        <label for="nome">Seu nome:</label><br>
-        <input type="text" id="nome" name="nome" placeholder="Digite seu nome">
-    
-        <br><br>
-    
-        <label for="email">Seu e-mail:</label><br>
-        <input type="email" id="email" name="email" placeholder="Digite seu e-mail">
-    
-        <br><br>
-    
-        <label for="personagem">Personagem favorito:</label><br>
-        <input type="text" id="personagem" name="personagem" placeholder="Ex: Naruto">
-    
-        <br><br>
-    
-        <label for="opiniao">Por que você gosta de Naruto?</label><br>
-        <textarea id="opiniao" name="opiniao" rows="5" cols="40"></textarea>
-    
-        <br><br>
-    
-        <button type="submit">Enviar</button>
-    </form>
-    
+
+            <h2>2. Se alguém te provoca, o que você faz?</h2>
+
+            <label>
+                <input type="radio" name="pergunta2" value="naruto">
+                Respondo na hora!
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta2" value="sasuke">
+                Ignoro e sigo meu caminho.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta2" value="shikamaru">
+                Penso em como dar a volta por cima.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta2" value="sakura">
+                Tento resolver sem brigar.
+            </label>
+
+
+            <h2>3. Qual seria sua habilidade ninja?</h2>
+
+            <label>
+                <input type="radio" name="pergunta3" value="naruto">
+                Uma força de vontade absurda.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta3" value="sasuke">
+                Um poder destrutivo.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta3" value="shikamaru">
+                Estratégia e inteligência.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta3" value="kakashi">
+                Velocidade e técnicas especiais.
+            </label>
+
+
+            <h2>4. Qual é o seu maior defeito?</h2>
+
+            <label>
+                <input type="radio" name="pergunta4" value="naruto">
+                Sou impulsivo.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta4" value="sasuke">
+                Sou orgulhoso.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta4" value="shikamaru">
+                Tenho preguiça.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta4" value="sakura">
+                Penso demais nos outros.
+            </label>
+
+
+            <h2>5. O que você faria para proteger alguém importante?</h2>
+
+            <label>
+                <input type="radio" name="pergunta5" value="naruto">
+                Lutaria até o fim.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta5" value="sasuke">
+                Ficaria mais forte a qualquer custo.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta5" value="shikamaru">
+                Criaria um plano perfeito.
+            </label>
+
+            <label>
+                <input type="radio" name="pergunta5" value="sakura">
+                Arriscaria tudo para salvar essa pessoa.
+            </label>
+
+            <br>
+
+            <button type="button" onclick="descobrirPersonagem()">
+                Descobrir meu personagem!
+            </button>
+
+        </form>
+
+
+        <section id="resultado">
+
+            <h2>Seu resultado aparecerá aqui!</h2>
+
+            <p>
+                Responda às cinco perguntas para descobrir
+                qual ninja você seria.
+            </p>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>Desenvolvido por Ronald Neto</p>
+    </footer>
+
+
+    <script src="code.js"></script>
+
 </body>
-</html>
-<br>
-<footer>
-    <div class="rodape">
-    <p>Desenvolvido por Ronald Neto</p>
-    <p>Contato: (61) 9 8628-8388</p>
-    <p>© 2026 - Todos os direitos reservados.</p>
-    </div>
-</footer>
 
+</html>
