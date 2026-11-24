@@ -1,1 +1,60 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Calculadora</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <header>
+            <h1>Calculadora</h1>
+            <p>Faça seus cálculos de maneira simples!</p>
+        </header>
+
+        <section class="calculadora">
+
+            <label for="numero1">Primeiro número</label>
+            <input type="number" id="numero1" placeholder="Digite o primeiro número">
+
+            <label for="numero2">Segundo número</label>
+            <input type="number" id="numero2" placeholder="Digite o segundo número">
+
+            <h3>Escolha a operação</h3>
+
+            <div class="operacoes">
+                <button class="operacao" data-operacao="somar">+</button>
+                <button class="operacao" data-operacao="subtrair">−</button>
+                <button class="operacao" data-operacao="multiplicar">×</button>
+                <button class="operacao" data-operacao="dividir">÷</button>
+            </div>
+
+            <button id="btnCalcular">Calcular resultado</button>
+
+            <button id="btnLimpar" class="limpar">Limpar campos</button>
+
+            <div id="resultado" aria-live="polite">
+                <p>Seu resultado aparecerá aqui.</p>
+            </div>
+
+        </section>
+
+        <footer>
+            Desenvolvido por Ronald Neto
+        </footer>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+
